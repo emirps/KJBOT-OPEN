@@ -6,3 +6,6 @@ This project will not be recieving any updates. This was my first major Python p
 
 # License
 This software is licensed under the MIT license. For more info, read LICENSE.
+
+# Usage
+To host this bot yourself, simply download the source, put your token in config, and run the bot.py file. 
