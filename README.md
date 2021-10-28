@@ -7,6 +7,7 @@ This project will not be recieving any updates. This was my first major Python p
 
 # License
 This software is licensed under the MIT license. For more info, read LICENSE.
+There is no requirement for this, however I ask that you consider donating to https://www.akpress.org/friends-prisoner.html and consider including this line in your software's README or other.
 Feel free to use this as a base for your own bots.
 
 # Usage
