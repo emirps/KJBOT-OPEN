@@ -11,6 +11,7 @@ bot=commands.Bot(command_prefix=prefixes)
 async def on_ready():
     await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name=f'my prefix is k? [Currently watching {len(bot.guilds)} servers!]'))
     print('Logged on as {0.user}'.format(bot))
+    print('https://www.akpress.org/friends-prisoner.html')
 @bot.event
 async def on_command_error(ctx, error):
     if isinstance(error, commands.MissingRequiredArgument):
